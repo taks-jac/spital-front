@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito+Sans|Lato|Be+Vietnam+Pro:regular,bold,italic&subset=latin,latin-ext');
+
+* {
+  box-sizing: border-box; 
+  margin: 0;
+  padding: 0;
+  
+  /* Color Pallete from Figma */
+  --color-dark-shade: #000000;
+  --color-light-shade: #FFFFFF;
+  --color-dark-accent: #2F8EAA;
+  --color-light-accent: #E4FAFC;
+  --color-primary: #4CBBC6;
+  
+  /* Fonts */
+  --font-header: 'Lato', sans-serif;
+  --font-content: 'Be Vietnam Pro', sans-serif;
+  --font-button: 'Lato', sans-serif;
+  --font-body: 'Nunito Sans', sans-serif;
+}
+
